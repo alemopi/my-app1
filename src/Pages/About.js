@@ -17,7 +17,7 @@ export default class About extends Component {
 return (
 
 
-//<CarouselBox />
+ 
 
 	<>
      <Container>
